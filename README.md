@@ -1,1 +1,22 @@
+<img width="262" height="402" alt="Снимок экрана 2026-05-06 120630" src="https://github.com/user-attachments/assets/5c945aa5-d5bb-4d37-9979-691e78e94ce7" />
+<img width="343" height="398" alt="Снимок экрана 2026-05-06 120331" src="https://github.com/user-attachments/assets/0f846982-f2ad-406e-9dad-b885c4094ab6" />
+<img width="1097" height="307" alt="Снимок экрана 2026-05-06 120326" src="https://github.com/user-attachments/assets/d5167052-056b-4cb3-9fc3-3a1af413abb5" />
+<img width="366" height="387" alt="Снимок экрана 2026-05-06 120106" src="https://github.com/user-attachments/assets/c4e68204-3467-490e-b940-13284ac2ddb4" />
+<img width="297" height="285" alt="Снимок экрана 2026-05-06 115832" src="https://github.com/user-attachments/assets/41776db4-3ed0-4969-9b4e-7c5fbe292fd5" />
+<img width="385" height="622" alt="Снимок экрана 2026-05-06 115827" src="https://github.com/user-attachments/assets/f1feed76-435e-4706-845f-525e145a94d9" />
+<img width="285" height="323" alt="Снимок экрана 2026-05-06 115052" src="https://github.com/user-attachments/assets/d4600c6c-90e9-453f-8803-4b3842129b79" />
+<img width="370" height="276" alt="Снимок экрана 2026-05-06 114950" src="https://github.com/user-attachments/assets/3b5f424c-f003-4243-83ad-6be6689fc1a7" />
+<img width="830" height="761" alt="Снимок экрана 2026-05-06 114735" src="https://github.com/user-attachments/assets/c9f30f68-d8d0-41b0-a4bb-673b45febbce" />
+<img width="323" height="225" alt="Снимок экрана 2026-05-06 114729" src="https://github.com/user-attachments/assets/02116546-332b-4442-8475-769e374ff539" />
+<img width="642" height="433" alt="Снимок экрана 2026-05-06 105625" src="https://github.com/user-attachments/assets/eae8d2ea-9b56-4015-9b2b-5f457227700c" />
+<img width="763" height="485" alt="Снимок экрана 2026-05-06 105619" src="https://github.com/user-attachments/assets/32139436-b1a1-46e8-9812-aa3b6636fb73" />
+<img width="325" height="308" alt="Снимок экрана 2026-05-06 104852" src="https://github.com/user-attachments/assets/da4a6f7b-5796-46de-9219-ec09a74d190c" />
+<img width="662" height="720" alt="Снимок экрана 2026-05-06 104847" src="https://github.com/user-attachments/assets/1aa1bdaa-04bc-408b-be3e-70f18b85e3a2" />
+<img width="349" height="182" alt="Снимок экрана 2026-05-06 104432" src="https://github.com/user-attachments/assets/60df0b2e-1243-4f64-a28b-e892a20f09cb" />
+<img width="658" height="283" alt="Снимок экрана 2026-05-06 104425" src="https://github.com/user-attachments/assets/10f59dcb-c865-47e4-b99d-a5f8f2eabcb5" />
+<img width="522" height="516" alt="Снимок экрана 2026-05-06 104012" src="https://github.com/user-attachments/assets/68d70155-1af9-4384-ae7c-369b84bcfb6f" />
+<img width="461" height="180" alt="Снимок экрана 2026-05-06 103604" src="https://github.com/user-attachments/assets/5adbc570-30fb-4b25-b83e-db8b7c83f48e" />
+<img width="672" height="641" alt="Снимок экрана 2026-05-06 103557" src="https://github.com/user-attachments/assets/1f695e14-d162-4f19-bd36-cd4344197fd6" />
+<img width="488" height="169" alt="Снимок экрана 2026-05-06 103142" src="https://github.com/user-attachments/assets/8dea063d-e4ab-4e99-9f98-b47cfff3f569" />
+<img width="743" height="339" alt="Снимок экрана 2026-05-06 103122" src="https://github.com/user-attachments/assets/93f8e6e0-a059-47fa-bc4a-ccc75d15659f" />
 # extijng
